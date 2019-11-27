@@ -1,0 +1,343 @@
+#EXTM3U
+#EXTINF:0,Animal Planet
+#EXTGRP:Познавательные
+http://46.32.68.167/s/live/918/86.169.51.136/0/0.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:Познавательные
+http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
+#EXTINF:0,В Мире Животных HD
+#EXTGRP:Познавательные
+http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/animalfamilyhd/chunklist.m3u8
+#EXTINF:0,Viasat Nature
+#EXTGRP:Познавательные
+http://178.124.183.5/hls/BN3FTDY3T8/variant.m3u8?version=2
+#EXTINF:0,Viasat History
+#EXTGRP:Познавательные
+http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
+#EXTINF:0,History
+#EXTGRP:Познавательные
+http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:0,National Geographic
+#EXTGRP:Познавательные
+http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:0,Galaxy
+#EXTGRP:Познавательные
+http://178.124.183.5/hls/CH_GALAXY/variant.m3u8
+#EXTINF:0,Моя Планета
+#EXTGRP:Познавательные
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Бобёр
+#EXTGRP:Познавательные
+http://46.32.68.167/s/live/418/86.169.51.136/1/0.m3u8
+#EXTINF:0,HD Медиа
+#EXTGRP:Познавательные
+http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:0,Ocean TV HD
+#EXTGRP:Познавательные
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/playlist.m3u8
+#EXTINF:0,Travel Guide TV HD
+#EXTGRP:Познавательные
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:0,NASA TV
+#EXTGRP:Познавательные
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:0,Red Bull TV HD
+#EXTGRP:Познавательные
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,365 дней ТВ
+#EXTGRP:Познавательные
+http://178.124.183.5/hls/CH_365DNEY/variant.m3u8?version=2
+#EXTINF:0,VIP Megahit
+#EXTGRP:Кино
+http://212.29.231.242:8080/btv_201/index.m3u8
+#EXTINF:0,TV1000
+#EXTGRP:Кино
+http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
+#EXTINF:0,TV1000 Русское кино
+#EXTGRP:Кино
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
+#EXTINF:0,TV1000 Action
+#EXTGRP:Кино
+http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
+#EXTINF:0,FOX
+#EXTGRP:Кино
+http://dmitry-tv.ru/his/itv_blrus/CH_FOX.m3u8
+#EXTINF:0,FOX Life
+#EXTGRP:Кино
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
+#EXTINF:0,STAR CINEMA
+#EXTGRP:Кино
+http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8?version=2
+#EXTINF:0,STAR FAMILY
+#EXTGRP:Кино
+http://178.124.183.5/hls/CH_FAMILY/variant.m3u8?version=2
+#EXTINF:0,Киносерия
+#EXTGRP:Кино
+http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8?version=2
+#EXTINF:0,Наше Новое Кино
+#EXTGRP:Кино
+http://dmitry-tv.ru/his/itv_blrus/CH_NASHENOVOEKINO.m3u8
+#EXTINF:0,Кинопремьера HD
+#EXTGRP:Кино
+http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8
+#EXTINF:0,Индийское кино
+#EXTGRP:Кино
+http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
+#EXTINF:0,Еврокино
+#EXTGRP:Кино
+http://178.124.183.5/hls/JEDUS3FS7V/variant.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP:Кино
+http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
+#EXTINF:0,Кинохит
+#EXTGRP:Кино
+http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:Кино
+http://dmitry-tv.ru/his/itv_blrus/CH_RUS_ILLUZION.m3u8
+#EXTINF:0,Мужское кино
+#EXTGRP:Кино
+http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
+#EXTINF:0,Sony Sci-Fi
+#EXTGRP:Кино
+http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
+#EXTINF:0,Sony Channel HD
+#EXTGRP:Кино
+http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
+#EXTINF:0,Amedia 2
+#EXTGRP:Кино
+http://178.124.183.5/hls/H4DP5GK3AE/variant.m3u8?version=2
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:Кино
+http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8
+#EXTINF:0,НСТ
+#EXTGRP:Кино
+http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
+#EXTINF:0,RU TV
+#EXTGRP:Кино
+http://178.124.183.5/hls/XW6AGFSZJ8/variant.m3u8?version=2
+#EXTINF:0,Киносемья
+#EXTGRP:Кино
+http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
+#EXTINF:0,Русский иллюзион
+#EXTGRP:Кино
+http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8
+#EXTINF:0,Наше новое кино
+#EXTGRP:Кино
+http://178.124.183.5/hls/UVPWPN2KTN/variant.m3u8?version=2
+#EXTINF:0,Кинокомедия
+#EXTGRP:Кино
+http://46.32.68.167/s/live/254/86.169.51.136/1/0.m3u8
+#EXTINF:0,FAN HD
+#EXTGRP:Кино
+http://217.25.216.4:8085/udp/238.2.29.234:1234
+#EXTINF:0,Paramount Comedy
+#EXTGRP:Кино
+http://46.32.68.167/s/live/250/86.169.51.136/0/0.m3u8
+#EXTINF:0,Кинопремьера
+#EXTGRP:Кино
+http://dmitry-tv.ru/his/itv_blrus/CH_KINOPREMERA.m3u8
+#EXTINF:0,Комедийное HD
+#EXTGRP:Кино
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:0,Киносвидание HD
+#EXTGRP:Кино
+http://217.25.216.4:8085/udp/238.2.18.14:1234
+#EXTINF:0,Супер HD
+#EXTGRP:Кино
+http://85.112.114.11:8086/udp/238.2.49.249:1234
+#EXTINF:0,Ultra HD cinema
+#EXTGRP:Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&amp;hd
+#EXTINF:0,КиноЗаказ 1
+#EXTGRP:Кино
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:0,КиноЗаказ 2
+#EXTGRP:Кино
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0,Shot TV
+#EXTGRP:Кино
+http://persik.tv/stream/7725/408679/10454.m3u8
+#EXTINF:0,Классика кино
+#EXTGRP:Кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:0,Наше Любимое Кино
+#EXTGRP:Кино
+http://178.124.183.14:80/hls/CH_NASHEKINO/variant.m3u8
+#EXTINF:0,Красная линия
+#EXTGRP:Кино
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:Общие
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0,Россия К
+#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Общие
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:0,Рен ТВ
+#EXTGRP:Общие
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:0,СТС
+#EXTGRP:Общие
+http://gorod.tv/s/live/13/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:0,Пятый канал
+#EXTGRP:Общие
+http://gorod.tv/s/live/5/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:0,ТВЦ
+#EXTGRP:Общие
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+#EXTINF:0,ТНТ International
+#EXTGRP:Общие
+http://178.124.183.5/hls/MVNP5DA4U9/variant.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Общие
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Общие
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8
+#EXTINF:0,Мир HD
+#EXTGRP:Общие
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,Мир
+#EXTGRP:Общие
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+#EXTINF:0,Мир Premium
+#EXTGRP:Общие
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
+#EXTINF:0,360 Новости HD
+#EXTGRP:Общие
+http://360tv-cdn.facecast.io/360/channel1/1.m3u8
+#EXTINF:0,Рен ТВ International
+#EXTGRP:Общие
+http://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:0,Звезда
+#EXTGRP:Общие
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
+#EXTINF:0,ВТВ
+#EXTGRP:Общие
+http://178.124.183.5/hls/CRCQFRNUFJ/variant.m3u8?version=2
+#EXTINF:0,СТС Kids
+#EXTGRP:Детские
+http://178.124.183.5/hls/CH_CTCKIDS/variant.m3u8?version=2
+#EXTINF:0,Мульт
+#EXTGRP:Детские
+http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
+#EXTINF:0,Cartoon Network
+#EXTGRP:Детские
+http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8?version=2
+#EXTINF:0,Детский Мир
+#EXTGRP:Детские
+http://178.124.183.5/hls/9F67L3DGIF/variant.m3u8?version=2
+#EXTINF:0,Gulli Girl
+#EXTGRP:Детские
+http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8?version=2
+#EXTINF:0,Tiji
+#EXTGRP:Детские
+http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8?version=2
+#EXTINF:0,Мультимания
+#EXTGRP:Детские
+http://dmitry-tv.ru/his/itv_blrus/CH_MULTIMANIYA.m3u8
+#EXTINF:0,СКАЗКИ ЗАЙКИ
+#EXTGRP:Детские
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:0,Смайлик ТВ
+#EXTGRP:Детские
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:Детские
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
+#EXTINF:0,2x2
+#EXTGRP:Детские
+http://178.124.183.5/hls/EU9VTLDQCN/variant.m3u8
+#EXTINF:0,1HD Music
+#EXTGRP:Музыка
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+#EXTINF:0,Жара
+#EXTGRP:Музыка
+http://178.124.183.5/hls/DXBSFZDTDG/variant.m3u8?version=2
+#EXTINF:0,ТНТ MUSIC
+#EXTGRP:Музыка
+http://stream-nexttv.comboplayer.ru/hlsl/1/A_One_TNT/03.m3u8
+#EXTINF:0,ТНТ Music
+#EXTGRP:Музыка
+http://178.124.183.5/hls/BCJGRB3KAX/variant.m3u8?version=2
+#EXTINF:0,М2
+#EXTGRP:Музыка
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:0,Europa Plus TV
+#EXTGRP:Музыка
+http://178.124.183.5/hls/BHH8EKRXPO/variant.m3u8?version=2
+#EXTINF:0,Наше ТВ
+#EXTGRP:Музыка
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:0,Deejay TV
+#EXTGRP:Музыка
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:0,BeBlack Classik
+#EXTGRP:Музыка
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:0,DJing
+#EXTGRP:Музыка
+https://www.djing.com/tv/28049-04.m3u8
+#EXTINF:0,DJing Animation HD
+#EXTGRP:Музыка
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:0,DJing Avicii
+#EXTGRP:Музыка
+https://djing.com/tv/s-28416-05-avicii.m3u8
+#EXTINF:0,DJing Classic
+#EXTGRP:Музыка
+http://www.djing.com/tv/classics.m3u8
+#EXTINF:0,DJing DJS HD
+#EXTGRP:Музыка
+https://www.djing.com/tv/k-27838-05.m3u8
+#EXTINF:0,DJing Electro Rock
+#EXTGRP:Музыка
+https://www.djing.com/tv/s-28713-05-electro-rock.m3u8
+#EXTINF:0,DJing French touch HD
+#EXTGRP:Музыка
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:0,DJing Hedonist
+#EXTGRP:Музыка
+http://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF:0,Djing Hits
+#EXTGRP:Музыка
+https://www.djing.com/tv/i-28634-04.m3u8
+#EXTINF:0,DJing Hot Hot Hot
+#EXTGRP:Музыка
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:0,DJing Ibiza
+#EXTGRP:Музыка
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:0,DJing Karaoke
+#EXTGRP:Музыка
+https://www.djing.com/tv/k-28713-05.m3u8
+#EXTINF:0,DJing Summer Vibes
+#EXTGRP:Музыка
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:0,DJing Underground
+#EXTGRP:Музыка
+http://djing.com/tv/underground.m3u8
+#EXTINF:0,DJing Wild
+#EXTGRP:Музыка
+http://www.djing.com/tv/session_wild-edm.m3u8
+#EXTINF:0,M20
+#EXTGRP:Музыка
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:0,MTV HD Enland
+#EXTGRP:Музыка
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:0,MUSIC CHOICE
+#EXTGRP:Музыка
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0,Magic TV
+#EXTGRP:Музыка
+https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
+#EXTINF:0,CONTACT music
+#EXTGRP:Музыка
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
