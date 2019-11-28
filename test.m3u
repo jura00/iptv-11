@@ -1,0 +1,12 @@
+#EXTINF:0,НТВ
+#EXTGRP:Общие
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:0,Ultra HD cinema
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&amp;hd
+#EXTINF:0,Рен ТВ 2
+http://vs309.vcdn.biz/b3cae27bea91b2ff8b3a421c4e96d5d6_megogo/live/hls/u_sid/0/o/41139141/u_uid/324331611/u_vod/0/u_device/android_drm_3/lip/87.228.50.73*asn/u_srvc/28561/type.live/chunklist-sid2130258731-b2490000.m3u8
+#EXTINF:0,Рен ТВ
+http://vs314.vcdn.biz/92c2e9e83f8207d93ac98c3b2e8a1804_megogo/vod/fs/o/41139141/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid529295264-b2490000.m3u8
