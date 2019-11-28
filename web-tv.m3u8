@@ -113,9 +113,6 @@ http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8
 #EXTINF:0,НСТ
 #EXTGRP:Кино
 http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
-#EXTINF:0,RU TV
-#EXTGRP:Кино
-http://178.124.183.5/hls/XW6AGFSZJ8/variant.m3u8?version=2
 #EXTINF:0,Киносемья
 #EXTGRP:Кино
 http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
@@ -131,9 +128,6 @@ http://46.32.68.167/s/live/254/86.169.51.136/1/0.m3u8
 #EXTINF:0,FAN HD
 #EXTGRP:Кино
 http://217.25.216.4:8085/udp/238.2.29.234:1234
-#EXTINF:0,Paramount Comedy
-#EXTGRP:Кино
-http://46.32.68.167/s/live/250/86.169.51.136/0/0.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP:Кино
 http://dmitry-tv.ru/his/itv_blrus/CH_KINOPREMERA.m3u8
@@ -227,9 +221,6 @@ http://178.124.183.5/hls/CH_CTCKIDS/variant.m3u8?version=2
 #EXTINF:0,Мульт
 #EXTGRP:Детские
 http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
-#EXTINF:0,Cartoon Network
-#EXTGRP:Детские
-http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8?version=2
 #EXTINF:0,Детский Мир
 #EXTGRP:Детские
 http://178.124.183.5/hls/9F67L3DGIF/variant.m3u8?version=2
@@ -260,9 +251,6 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF:0,Жара
 #EXTGRP:Музыка
 http://178.124.183.5/hls/DXBSFZDTDG/variant.m3u8?version=2
-#EXTINF:0,ТНТ MUSIC
-#EXTGRP:Музыка
-http://stream-nexttv.comboplayer.ru/hlsl/1/A_One_TNT/03.m3u8
 #EXTINF:0,ТНТ Music
 #EXTGRP:Музыка
 http://178.124.183.5/hls/BCJGRB3KAX/variant.m3u8?version=2
@@ -308,9 +296,6 @@ http://www.djing.com/tv/session_hedonist.m3u8
 #EXTINF:0,Djing Hits
 #EXTGRP:Музыка
 https://www.djing.com/tv/i-28634-04.m3u8
-#EXTINF:0,DJing Hot Hot Hot
-#EXTGRP:Музыка
-http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
 #EXTINF:0,DJing Ibiza
 #EXTGRP:Музыка
 http://djing.com/tv/dancefloor.m3u8
@@ -329,9 +314,6 @@ http://www.djing.com/tv/session_wild-edm.m3u8
 #EXTINF:0,M20
 #EXTGRP:Музыка
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:0,MTV HD Enland
-#EXTGRP:Музыка
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0,MUSIC CHOICE
 #EXTGRP:Музыка
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
