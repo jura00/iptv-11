@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,Animal Planet
-#EXTGRP:Познавательные
-http://46.32.68.167/s/live/918/86.169.51.136/0/0.m3u8
 #EXTINF:0,Nat Geo Wild
 #EXTGRP:Познавательные
 http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
@@ -11,42 +8,51 @@ http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/animalfamilyhd/chunklist.m3u8
 #EXTINF:0,Viasat Nature
 #EXTGRP:Познавательные
 http://178.124.183.5/hls/BN3FTDY3T8/variant.m3u8?version=2
-#EXTINF:0,Viasat History
+#EXTINF:0,Зоо ТВ
 #EXTGRP:Познавательные
-http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
-#EXTINF:0,History
-#EXTGRP:Познавательные
-http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=2
+http://ott-cdn.ucom.am/s92/index.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:Познавательные
-http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
 #EXTINF:0,Galaxy
 #EXTGRP:Познавательные
 http://178.124.183.5/hls/CH_GALAXY/variant.m3u8
 #EXTINF:0,Моя Планета
 #EXTGRP:Познавательные
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:0,Бобёр
+#EXTINF:0,Телепутешествия
 #EXTGRP:Познавательные
-http://46.32.68.167/s/live/418/86.169.51.136/1/0.m3u8
+http://ott-cdn.ucom.am/s71/index.m3u8
 #EXTINF:0,HD Медиа
 #EXTGRP:Познавательные
 http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
 #EXTINF:0,Ocean TV HD
 #EXTGRP:Познавательные
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/playlist.m3u8
-#EXTINF:0,Travel Guide TV HD
+#EXTINF:0,History
 #EXTGRP:Познавательные
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:0,Viasat History
+#EXTGRP:Познавательные
+http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
+#EXTINF:0,365 дней ТВ
+#EXTGRP:Познавательные
+http://178.124.183.5/hls/CH_365DNEY/variant.m3u8?version=2
+#EXTINF:0,Eureka HD
+#EXTGRP:Познавательные
+http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/eurekahd/chunklist.m3u8
+#EXTINF:0,Наука 2.0
+#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:0,Бобёр
+#EXTGRP:Познавательные
+http://46.32.68.167/s/live/418/86.169.51.136/1/0.m3u8
 #EXTINF:0,NASA TV
 #EXTGRP:Познавательные
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:0,Red Bull TV HD
 #EXTGRP:Познавательные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:0,365 дней ТВ
-#EXTGRP:Познавательные
-http://178.124.183.5/hls/CH_365DNEY/variant.m3u8?version=2
 #EXTINF:0,VIP Megahit
 #EXTGRP:Кино
 http://212.29.231.242:8080/btv_201/index.m3u8
@@ -59,12 +65,6 @@ http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
 #EXTINF:0,TV1000 Action
 #EXTGRP:Кино
 http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
-#EXTINF:0,FOX
-#EXTGRP:Кино
-http://dmitry-tv.ru/his/itv_blrus/CH_FOX.m3u8
-#EXTINF:0,FOX Life
-#EXTGRP:Кино
-http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
 #EXTINF:0,STAR CINEMA
 #EXTGRP:Кино
 http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8?version=2
@@ -104,12 +104,6 @@ http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
 #EXTINF:0,Sony Channel HD
 #EXTGRP:Кино
 http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
-#EXTINF:0,Amedia 2
-#EXTGRP:Кино
-http://178.124.183.5/hls/H4DP5GK3AE/variant.m3u8?version=2
-#EXTINF:0,Amedia Premium HD
-#EXTGRP:Кино
-http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8
 #EXTINF:0,НСТ
 #EXTGRP:Кино
 http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
@@ -119,18 +113,12 @@ http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
 #EXTINF:0,Русский иллюзион
 #EXTGRP:Кино
 http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8
-#EXTINF:0,Наше новое кино
-#EXTGRP:Кино
-http://178.124.183.5/hls/UVPWPN2KTN/variant.m3u8?version=2
-#EXTINF:0,Кинокомедия
-#EXTGRP:Кино
-http://46.32.68.167/s/live/254/86.169.51.136/1/0.m3u8
-#EXTINF:0,FAN HD
-#EXTGRP:Кино
-http://217.25.216.4:8085/udp/238.2.29.234:1234
 #EXTINF:0,Кинопремьера
 #EXTGRP:Кино
 http://dmitry-tv.ru/his/itv_blrus/CH_KINOPREMERA.m3u8
+#EXTINF:0,Кинокомедия
+#EXTGRP:Кино
+http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/28.ts
 #EXTINF:0,Комедийное HD
 #EXTGRP:Кино
 http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
@@ -152,6 +140,30 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:0,Shot TV
 #EXTGRP:Кино
 http://persik.tv/stream/7725/408679/10454.m3u8
+#EXTINF:0,BOLT
+#EXTGRP:Кино
+http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
+#EXTINF:0,Cineman ATV
+#EXTGRP:Кино
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:0,Kinoman ATV
+#EXTGRP:Кино
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:0,FAN HD
+#EXTGRP:Кино
+http://217.25.216.4:8085/udp/238.2.29.234:1234
+#EXTINF:0,Amedia 2
+#EXTGRP:Кино
+http://178.124.183.5/hls/H4DP5GK3AE/variant.m3u8?version=2
+#EXTINF:0,FOX
+#EXTGRP:Кино
+http://dmitry-tv.ru/his/itv_blrus/CH_FOX.m3u8
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:Кино
+http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8
+#EXTINF:0,FOX Life
+#EXTGRP:Кино
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
 #EXTINF:0,Классика кино
 #EXTGRP:Кино
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
@@ -179,6 +191,12 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Общие
 http://gorod.tv/s/live/13/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:0,ТНТ
+#EXTGRP:Общие
+http://46.32.68.167/s/live/19/86.169.51.136/1/0.m3u8
+#EXTINF:0,Пятница!
+#EXTGRP:Общие
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Пятый канал
 #EXTGRP:Общие
 http://gorod.tv/s/live/5/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
@@ -203,21 +221,24 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
 #EXTINF:0,Мир Premium
 #EXTGRP:Общие
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
+#EXTINF:0,Москва 24
+#EXTGRP:Общие
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
 #EXTINF:0,360 Новости HD
 #EXTGRP:Общие
 http://360tv-cdn.facecast.io/360/channel1/1.m3u8
-#EXTINF:0,Рен ТВ International
-#EXTGRP:Общие
-http://sc.id-tv.kz/RenTV_38_39.m3u8
 #EXTINF:0,Звезда
 #EXTGRP:Общие
 http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
-#EXTINF:0,ВТВ
+#EXTINF:0,ОТР HD
 #EXTGRP:Общие
-http://178.124.183.5/hls/CRCQFRNUFJ/variant.m3u8?version=2
+http://live-otronline.cdnvideo.ru/otr-decklink/otr_ru_720p/playlist.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP:Детские
 http://178.124.183.5/hls/CH_CTCKIDS/variant.m3u8?version=2
+#EXTINF:0,Карусель
+#EXTGRP:Детские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Мульт
 #EXTGRP:Детские
 http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
@@ -233,15 +254,15 @@ http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8?version=2
 #EXTINF:0,Мультимания
 #EXTGRP:Детские
 http://dmitry-tv.ru/his/itv_blrus/CH_MULTIMANIYA.m3u8
-#EXTINF:0,СКАЗКИ ЗАЙКИ
-#EXTGRP:Детские
-http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 #EXTINF:0,Смайлик ТВ
 #EXTGRP:Детские
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:0,Boomerang
 #EXTGRP:Детские
 http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
+#EXTINF:0,СКАЗКИ ЗАЙКИ
+#EXTGRP:Детские
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 #EXTINF:0,2x2
 #EXTGRP:Детские
 http://178.124.183.5/hls/EU9VTLDQCN/variant.m3u8
@@ -257,12 +278,15 @@ http://178.124.183.5/hls/BCJGRB3KAX/variant.m3u8?version=2
 #EXTINF:0,М2
 #EXTGRP:Музыка
 http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:0,VIVA Russia
+#EXTGRP:Музыка
+http://85.143.202.116/hls/viva.m3u8
 #EXTINF:0,Europa Plus TV
 #EXTGRP:Музыка
 http://178.124.183.5/hls/BHH8EKRXPO/variant.m3u8?version=2
-#EXTINF:0,Наше ТВ
+#EXTINF:0,NRJ Hits
 #EXTGRP:Музыка
-http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
 #EXTINF:0,Deejay TV
 #EXTGRP:Музыка
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
@@ -311,15 +335,18 @@ http://djing.com/tv/underground.m3u8
 #EXTINF:0,DJing Wild
 #EXTGRP:Музыка
 http://www.djing.com/tv/session_wild-edm.m3u8
+#EXTINF:0,Kronehit HD
+#EXTGRP:Музыка
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0,M20
 #EXTGRP:Музыка
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:0,MUSIC CHOICE
-#EXTGRP:Музыка
-https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:0,Magic TV
 #EXTGRP:Музыка
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:0,CONTACT music
 #EXTGRP:Музыка
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:0,Наше ТВ
+#EXTGRP:Музыка
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
